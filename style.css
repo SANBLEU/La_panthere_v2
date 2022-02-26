@@ -684,9 +684,17 @@ blockquote p {
     font-size: 21px
 }
 
+.form-group {
+    margin-bottom: 15px;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
+}
+
+#bloc-6 h1 {
+    text-align: center;
 }
 
 .h1 {
